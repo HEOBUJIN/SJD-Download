@@ -1,9 +1,9 @@
 {
   "ios": {
     "version": "1.0.0",
-    "build": "5",
-    "tag": "ios-v1.0.0-b5",
-    "ipa_url": "https://github.com/HEOBUJIN/SJD-Download/releases/download/ios-v1.0.0-b5/SJD.ipa",
+    "build": "6",
+    "tag": "ios-v1.0.0-b6",
+    "ipa_url": "https://github.com/HEOBUJIN/SJD-Download/releases/download/ios-v1.0.0-b6/SJD.ipa",
     "manifest_url": "https://heobujin.github.io/SJD-Download/manifest.plist"
   }
 }
